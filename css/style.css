@@ -1,0 +1,83 @@
+*{
+
+}
+
+body{
+	width: 100%;
+}
+
+section{
+	overflow-x: hidden;
+	width: 100%;
+}
+
+nav{
+	height: 100px;
+	display: block;
+}
+
+.nav-span{
+	padding-left: 100px;
+	padding-top: 15px;
+	/*padding-bottom: 20px;*/
+	font-size: 25px;
+	height: 10vh;
+}
+
+.main{
+	/*overflow-x: hidden;*/
+	color: red !important;
+	max-width: 100% !important;
+}
+
+.sub-main1{
+	background-image: url("../images/IMG_20181230_153408_3.jpg");
+	background-size: cover;
+	display: block;
+	max-height: 90vh;
+	color: white;
+}
+
+.submit{
+	display: block;
+	max-width: 370px;
+}
+.sub-main2{
+	background: rgba(27, 23, 237, 0.7);
+	text-align: center;
+	height: 90vh;
+}
+
+.sub-main1 span{
+	
+}
+
+.theForm{
+	max-height: 470px;
+	margin-top: 50px;
+	color: black !important;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-radius: 10px;
+}
+
+.Message{
+	margin-top: 50px;
+}
+
+/*.span{
+	wi
+}*/
+
+.form-group input, textarea, h4, span{
+	max-width: 370px !important;
+}
+
+.head{
+	font-size: 40px;
+}
+
+.leftText{
+	text-align: left !important;
+	margin-left: 33px;
+}
